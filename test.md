@@ -1,3 +1,3 @@
 # test
 
-I'm testing a [relative link](test.md)
+I'm testing a [relative link](link.md)
